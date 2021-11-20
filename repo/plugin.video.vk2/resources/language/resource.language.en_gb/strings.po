@@ -1,0 +1,271 @@
+# Kodi Media Center language file
+# Addon Name: VK
+# Addon id: plugin.video.vk2
+# Addon Provider: TomMistolerCZ
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"PO-Revision-Date: 2019-05-07 20:29+0200\n"
+"Last-Translator: Tomáš Mistoler <tomas.mistoler@gmail.com>\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/kodi-main/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+
+msgctxt "#30000"
+msgid "GENERAL"
+msgstr ""
+
+msgctxt "#30001"
+msgid "USER"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Items per page"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Force custom view mode for videos"
+msgstr ""
+
+msgctxt "#30004"
+msgid "View mode id"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Search without age restrictions"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Search incl. own videos"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Search by video duration"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Any"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Longer than"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Shorter than"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Duration in minutes"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Sort searched videos"
+msgstr ""
+
+msgctxt "#30013"
+msgid "By date"
+msgstr ""
+
+msgctxt "#30014"
+msgid "By duration"
+msgstr ""
+
+msgctxt "#30015"
+msgid "By relevance"
+msgstr ""
+
+msgctxt "#30016"
+msgid "VK user access token"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Logout user"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Keep history of add-on requests"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Keep history of played videos"
+msgstr ""
+
+msgctxt "#30020"
+msgid "VK authorization error!"
+msgstr ""
+
+msgctxt "#30021"
+msgid "VK API error!"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Routing error!"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Data file error!"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Video resolving error! Try again to renew the token."
+msgstr ""
+
+msgctxt "#30030"
+msgid "VK login (email/phone)"
+msgstr ""
+
+msgctxt "#30031"
+msgid "VK password"
+msgstr ""
+
+msgctxt "#30032"
+msgid "User logged out."
+msgstr ""
+
+msgctxt "#30033"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Next page"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Skip to page"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Go to"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Follow"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Search videos"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Search history"
+msgstr ""
+
+msgctxt "#30042"
+msgid "My videos"
+msgstr ""
+
+msgctxt "#30043"
+msgid "My liked videos"
+msgstr ""
+
+msgctxt "#30044"
+msgid "My video albums"
+msgstr ""
+
+msgctxt "#30045"
+msgid "My communities"
+msgstr ""
+
+msgctxt "#30046"
+msgid "My liked communities"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Played videos"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Watchlist"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Add to liked videos"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Remove from liked videos"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Set albums"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Add to watchlist"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Remove from watchlist"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Clear watchlist"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Clear played videos"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Rename album"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Move album up"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Move album down"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Delete album"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Create new album"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Add to liked communities"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Remove from liked communities"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Leave community"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Delete search"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Clear search history"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Search videos"
+msgstr ""
+
+msgctxt "#30084"
+msgid "{0} videos searched"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Search by similar title"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Prefer HLS (adaptive bitrate)"
+msgstr ""

@@ -9,6 +9,7 @@ import shutil
 import hashlib
 import zipfile
 from xml.etree import ElementTree
+import sys
 
 SCRIPT_VERSION = 2
 KODI_VERSIONS = ["krypton", "leia", "matrix", "repo"]
@@ -24,7 +25,7 @@ IGNORE = [
 
 
 def _setup_colors():
-    color = os.system("color")
+    color = sys.platform == "linux" or sys.platform == "linux2"
     console = 0
     if os.name == 'nt':  # Only if we are running on Windows
         from ctypes import windll
@@ -46,8 +47,7 @@ _COLORS = {
     "grey": "37",
     "endc": "0",
 }
-_SUPPORTS_COLOR = _setup_colors()
-
+_SUPPORTS_COLOR = None
 
 def color_text(text, color):
     return (
@@ -79,6 +79,7 @@ class Generator:
     """
 
     def __init__(self, release):
+        print(release)
         self.release_path = release
         self.zips_path = os.path.join(self.release_path, "zips")
         addons_xml_path = os.path.join(self.zips_path, "addons.xml")
@@ -314,5 +315,7 @@ class Generator:
 
 
 if __name__ == "__main__":
+    print("ola")
     for release in [r for r in KODI_VERSIONS if os.path.exists(r)]:
+        #print(ola2)
         Generator(release)

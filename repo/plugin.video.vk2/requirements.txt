@@ -1,0 +1,6 @@
+mock
+pytest
+pprintpp
+requests
+
+kodistubs >= 19.0.0

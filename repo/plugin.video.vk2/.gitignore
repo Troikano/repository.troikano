@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*.log
+.idea/workspace.xml
+.pytest_cache/
+/addon_data/
+session.txt
+db.json
