@@ -1,0 +1,3 @@
+[submodule "plugin.video.vk2"]
+	path = plugin.video.vk2
+	url = https://github.com/Troikano/plugin.video.vk2
